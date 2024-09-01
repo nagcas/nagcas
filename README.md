@@ -4,7 +4,7 @@ Benvenuto/a sul mio profilo GitHub!
 
 ## 🔭 Attualmente sto lavorando a:
 - [SafeQuake Alert]
-SafeQuake Alert è un'applicazione web avanzata sviluppata con React e Node.js, progettata per fornire allerte in tempo reale riguardo ai terremoti e offrire consigli su come comportarsi durante tali eventi. Il sistema mira a migliorare la sicurezza pubblica attraverso notifiche tempestive, informazioni educative e news aggiornate.
+- SafeQuake Alert è un'applicazione web avanzata sviluppata con React e Node.js, progettata per fornire allerte in tempo reale riguardo ai terremoti e offrire consigli su come comportarsi durante tali eventi. Il sistema mira a migliorare la sicurezza pubblica attraverso notifiche tempestive, informazioni educative e news aggiornate.
 
 
 ## 🌱 Sto imparando:
