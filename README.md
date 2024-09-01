@@ -7,12 +7,15 @@ Benvenuto/a sul mio profilo GitHub!
 
 
 ## 🌱 Sto imparando:
-- React, Node.js
+- React, Node.js, Express
+- Firebase
+- Leaflet
+- Telegraf
 - Python
 
 ## 📫 Come contattarmi:
 - Email: studio.nagcas@gmail.com
-- LinkedIn: [https://www.linkedin.com/in/gianluca-chiaravalloti-5694081a2/]
+- LinkedIn: [visita](https://www.linkedin.com/in/gianluca-chiaravalloti-5694081a2/)
 
 ## ⚡ Curiosità su di me:
 - Appassionato/a di tecnologia e sviluppo web.
