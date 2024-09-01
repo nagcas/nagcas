@@ -19,5 +19,5 @@ Benvenuto/a sul mio profilo GitHub!
 - LinkedIn: [visita](https://www.linkedin.com/in/gianluca-chiaravalloti-5694081a2/)
 
 ## ⚡ Curiosità su di me:
-- Appassionato/a di tecnologia e sviluppo web.
+- Appassionato di tecnologia e sviluppo web.
 - Amo imparare nuove cose ogni giorno!
