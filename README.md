@@ -1,16 +1,19 @@
-## Hi there 👋
+# Ciao, sono Gianluca 👋
 
-<!--
-**nagcas/nagcas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Benvenuto/a sul mio profilo GitHub!
 
-Here are some ideas to get you started:
+## 🔭 Attualmente sto lavorando a:
+- [SafeQuake Alert]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 🌱 Sto imparando:
+- React, Node.js
+- Python
+
+## 📫 Come contattarmi:
+- Email: studio.nagcas@gmail.com
+- LinkedIn: [https://www.linkedin.com/in/gianluca-chiaravalloti-5694081a2/]
+
+## ⚡ Curiosità su di me:
+- Appassionato/a di tecnologia e sviluppo web.
+- Amo imparare nuove cose ogni giorno!
