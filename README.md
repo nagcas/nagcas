@@ -9,10 +9,11 @@ Benvenuto/a sul mio profilo GitHub!
 
 ## 🌱 Ho utilizzato:
 - React, Node.js, Express
+- Bootstrap 5.0
 - Firebase
+- Socket-io
 - Leaflet
 - Telegraf
-- Python
 
 ## 📫 Come contattarmi:
 - Email: studio.nagcas@gmail.com
