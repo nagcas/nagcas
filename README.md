@@ -16,7 +16,7 @@ Benvenuto/a sul mio profilo GitHub!
 - Telegraf
 
 ## 📫 Come contattarmi:
-- Email: studio.nagcas@gmail.com
+- Email: studio.nagcas@outlook.it
 - LinkedIn: [visita](https://www.linkedin.com/in/gianluca-chiaravalloti-5694081a2/)
 
 ## ⚡ Curiosità su di me:
