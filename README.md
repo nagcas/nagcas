@@ -11,20 +11,16 @@ Benvenuto/a sul mio profilo GitHub!
 ## 🌱 Tecnologie Utilizzate
 
 ### 🚀 Framework e Runtime
-- React
-- Node.js
-- Express
+- React - Node.js - Express
 
 ### 🎨 UI e Stile
-- Bootstrap 5.0
-- AOS (Animate on Scroll)
+- Bootstrap 5.0 - AOS (Animate on Scroll)
 
 ### 🔥 Backend e Database
 - Firebase
 
 ### 🔌 Real-time e Comunicazione
-- Socket.io
-- Telegraf
+- Socket.io - Telegraf
 
 ### 🗺️ Mappe
 - Leaflet
@@ -33,8 +29,7 @@ Benvenuto/a sul mio profilo GitHub!
 - Cloudinary
 
 ### 🌐 Internazionalizzazione
-- i18next
-- React-i18next
+- i18next - React-i18next
 
 ### 🍞 Notifiche UI
 - React Hot Toast
