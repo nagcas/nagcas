@@ -21,7 +21,9 @@ Benvenuto/a sul mio profilo GitHub!
 ![React Hot Toast](https://img.shields.io/badge/React--Hot--Toast-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 
 ## 📫 Come contattarmi:
-- Email: studio.nagcas@outlook.it - LinkedIn: [visita(https://www.linkedin.com/in/gianluca-chiaravalloti-5694081a2/)
+- Email: studio.nagcas@outlook.it 
+- LinkedIn: [visita(https://www.linkedin.com/in/gianluca-chiaravalloti-5694081a2/)
+- Portfolio: [visita(https://portfolio-gianluca-phi.vercel.app/)]
 
 ## ⚡ Curiosità su di me:
 - Appassionato di tecnologia e sviluppo web.
