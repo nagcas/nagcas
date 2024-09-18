@@ -10,7 +10,7 @@ Benvenuto/a sul mio profilo GitHub!
 - Visita il progetto in fase di test online (https://safe-quake-alert.vercel.app)
 - Clona il progetto (https://github.com/nagcas/SafeQuake-Alert.git)
 
-## 🌱 Tecnologie Utilizzate
+## 🌱 Competenze
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?tyle=for-the-badge&logo=express&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
