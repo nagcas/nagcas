@@ -25,6 +25,8 @@ Benvenuto/a sul mio profilo GitHub!
 - LinkedIn: [visita(https://www.linkedin.com/in/gianluca-chiaravalloti-5694081a2/)
 - Portfolio: [visita(https://portfolio-gianluca-phi.vercel.app/)]
 
+## Hacktoberfest 2024
+
 [![An image of @nagcas's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nagcas)](https://holopin.io/@nagcas)
 
 ## ⚡ Curiosità su di me:
