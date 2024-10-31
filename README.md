@@ -2,7 +2,7 @@
 
 Benvenuto/a sul mio profilo GitHub!
 
-![My Portfolio Screenshot](/images/images-portfolio.png)
+![Screenshot 2024-10-29 103233](https://github.com/user-attachments/assets/db85eb95-872f-4e89-9c66-1b888ea62803)
 
 ## 🔭 Attualmente sto lavorando a:
 
