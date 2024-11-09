@@ -4,7 +4,7 @@ Benvenuto/a sul mio profilo GitHub!
 
 ![Screenshot 2024-10-29 103233](https://github.com/user-attachments/assets/db85eb95-872f-4e89-9c66-1b888ea62803)
 
-## 🔭 Attualmente sto lavorando a:
+# Progetto importante
 
 - SafeQuake Alert è un'applicazione web avanzata sviluppata con React e Node.js, progettata per fornire allerte in tempo reale riguardo ai terremoti e offrire consigli su come comportarsi durante tali eventi. Il sistema mira a migliorare la sicurezza pubblica attraverso notifiche tempestive, informazioni educative e news aggiornate.
 - Visita il progetto in fase di test online (https://safe-quake-alert.vercel.app)
