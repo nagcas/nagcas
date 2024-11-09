@@ -22,8 +22,8 @@ Benvenuto/a sul mio profilo GitHub!
 
 ## 📫 Come contattarmi:
 - Email: studio.nagcas@outlook.it 
-- LinkedIn: [visita(https://www.linkedin.com/in/gianluca-chiaravalloti-5694081a2/)
-- Portfolio: [visita(https://portfolio-gianluca-phi.vercel.app/)]
+- LinkedIn: (https://www.linkedin.com/in/gianluca-chiaravalloti-5694081a2/)
+- Portfolio: (https://portfolio-gianluca-phi.vercel.app/)
 
 ## Hacktoberfest 2024
 
