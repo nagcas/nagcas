@@ -1,4 +1,4 @@
-# Ciao, sono Gianluca 👋
+# Ciao, sono Gianluca
 
 Benvenuto/a sul mio profilo GitHub!
 
