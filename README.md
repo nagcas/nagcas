@@ -31,6 +31,12 @@ TerraQuake API mira a diventare uno strumento chiave per chiunque necessiti di d
 ![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=leaflet&logoColor=white) ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-ge&logo=cloudinary&logoColor=white)
 ![i18next](https://img.shields.io/badge/i18next-26A69A?style=for-the-badge&logo=i18next&logoColor=white) ![React-i18next](https://img.shields.io/badge/React--i18next-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 ![React Hot Toast](https://img.shields.io/badge/React--Hot--Toast-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)
+![Discord.py](https://img.shields.io/badge/Discord.py-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 
 ## 📫 Come contattarmi:
 - Email: studio.nagcas@outlook.it 
