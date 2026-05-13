@@ -2,7 +2,7 @@
 
 Benvenuto/a sul mio profilo GitHub!
 2803
-![Screenshot 2024-10-29 103233](./images/image_profile.png)
+![Screenshot 2024-10-29 103233](./images/image-profile.jpg)
 
 # Progetto importante
 
